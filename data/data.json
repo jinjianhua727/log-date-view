@@ -1,0 +1,12 @@
+[
+{"ip":"222.86.153.12","city":{"name":"海门","location":[121.15,31.89]},"browser":"Chrome","url":"/images/cursor_minify.cur","status":"404","value":"60"},
+{"ip":"222.86.153.12","city":{"name":"鄂尔多斯","location":[109.781327,39.608266]},"browser":"Firefox","url":"/images/cursor_zoom.cur","status":"404","value":"32"},
+{"ip":"58.253.6.133","city":{"name":"招远","location":[120.38,37.35]},"browser":"Chrome","url":"/images/cursor_minify.cur","status":"404","value":"32"},
+{"ip":"111.85.34.165","city":{"name":"舟山","location":[122.207216,29.985295]},"browser":"Firefox","url":"/%3Ca%20href=","status":"404","value":"28"},
+{"ip":"58.253.6.133","city":{"name":"齐齐哈尔","location":[122.207216,29.985295]},"browser":"Chrome","url":"/images/cursor_zoom.cur","status":"404","value":"27"},
+{"ip":"218.29.111.117","city":{"name":"盐城","location":[120.13,33.38]},"browser":"IE","url":"/images/cursor_zoom.cur","status":"404","value":"27"},
+{"ip":"218.29.111.117","city":{"name":"赤峰","location":[118.87,42.28]},"browser":"IE","url":"/images/cursor_minify.cur","status":"404","value":"26"},
+{"ip":"117.63.146.40","city":{"name":"青岛","location":[120.33,36.07]},"browser":"Chrome","url":"/public/js/common.js?20110824","status":"200","value":"19"},
+{"ip":"117.63.146.40","city":{"name":"乳山","location":[121.52,36.89]},"browser":"Chrome","url":"/favicon.ico","status":"404","value":"18"},
+{"ip":"117.63.146.40","city":{"name":"金昌","location":[102.188043,38.520089]},"browser":"Safari","url":"/public/js/weibo.js?20110824","status":"200","value":"16"}
+]
